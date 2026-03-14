@@ -7,4 +7,4 @@ shap
 streamlit
 matplotlib
 seaborn
-pytest
+pytestimbalanced-learn
